@@ -1,4 +1,4 @@
-package day01;
+package day01_Variables;
 
 public class C03_Variables {
 
@@ -29,6 +29,9 @@ public class C03_Variables {
 		System.out.println(harf1+sayi1+sayi2); // A1020
 		System.out.println(sayi1+harf1+sayi2); // 10A20
 		System.out.println(harf1+(sayi1+sayi2)); // A30
+		
+
+		
 	}
 
 }
