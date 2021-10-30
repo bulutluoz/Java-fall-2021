@@ -33,7 +33,7 @@ public class C01_BasitIfCumleleri {
 			System.out.println("Carsamba, Cuma veya Cumartesi");
 		}
 		
-		if (ilkHarf!='C' || ilkHarf!='P' || ilkHarf!='S') {
+		if (ilkHarf!='C' && ilkHarf!='P' && ilkHarf!='S') {
 			System.out.println("Gecersiz harf girdiniz .Lutfen gun isimlerinden birinin basharfini yazin");
 		}
 		

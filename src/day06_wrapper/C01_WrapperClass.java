@@ -7,6 +7,8 @@ public class C01_WrapperClass {
 		int sayi1=10;
 		Integer sayi2=20;
 		
+		System.out.println(sayi1 +sayi2);
+		
 		// sayi1. yazdigimizda hic bir method cikmaz, cunku sayi1 int 'dir yani primitive dir
 		// sayi2. yazdigimizda ise bircok method geliyor, cunku sayi2 Integer'dir yani wrapper class'dir
 		
