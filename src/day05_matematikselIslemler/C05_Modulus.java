@@ -42,6 +42,7 @@ public class C05_Modulus {
 		
 		System.out.println("Girdiginiz sayinin rakamlar toplami : " + rakamlarToplami);
 
+		scan.close();
 	}
 
 }
