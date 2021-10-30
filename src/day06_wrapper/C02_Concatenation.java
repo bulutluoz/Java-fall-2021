@@ -18,8 +18,9 @@ public class C02_Concatenation {
 		// Java 19
 		System.out.println(str1 + " " + (sayi1-sayi2) + (sayi1+sayi2));
 		// 54 Guzel
-		System.out.println("sayi1"+sayi2+" " + str2);
-
+		System.out.println(sayi1+""+ sayi2+" " + str2);
+		
+		
 
 	}
 
