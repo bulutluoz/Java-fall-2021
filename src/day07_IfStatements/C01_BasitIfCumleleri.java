@@ -38,7 +38,7 @@ public class C01_BasitIfCumleleri {
 		}
 		
 		
-
+		scan.close();
 	}
 
 }

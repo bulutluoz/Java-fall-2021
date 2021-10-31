@@ -29,7 +29,7 @@ public class C03_BasitifCumleleri {
 		
 		// String non-primitive oldugu icin == kullanilmaz bunun yerine equals() kullanilmalidir
 		
-		
+		scan.close();
 		
 	
 	}

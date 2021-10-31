@@ -19,6 +19,7 @@ public class C02_BasitIfCumleleri {
 		if (sayi%2==1) {
 			System.out.println("girdiginiz sayi tek bir sayi");
 		}
+		scan.close();
 	}
 
 }
