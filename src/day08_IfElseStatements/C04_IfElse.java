@@ -22,7 +22,8 @@ public class C04_IfElse {
 			System.out.println("Eskenar ucgen degil");
 		}
 
-
+		scan.close();
+		
 	}
 
 }
