@@ -11,7 +11,7 @@ public class C07_SwitchCase {
 		
 		switch(gunNo) {
 		
-		case 1:
+		case 1: 
 			System.out.println("Pazartesi"); 
 			break;
 		case 2:
