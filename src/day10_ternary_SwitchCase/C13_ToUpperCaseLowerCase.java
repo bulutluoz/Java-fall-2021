@@ -8,7 +8,7 @@ public class C13_ToUpperCaseLowerCase {
 		// verilen Stringin tamamini buyuk veya kucuk harfe cevirir
 		
 		String isim="aLI"; // bunu Ali olarak yazdiralim
-		System.out.println(isim.toUpperCase().charAt(0)+
+		System.out.println(""+isim.toUpperCase().charAt(0)+
 							isim.toLowerCase().charAt(1)+ isim.toLowerCase().charAt(2));
 		
 		// turkce lokal harfler kullanarak tamamini kucuk harfe cevirelim
