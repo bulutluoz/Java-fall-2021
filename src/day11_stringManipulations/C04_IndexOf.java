@@ -25,7 +25,7 @@ public class C04_IndexOf {
 		// bu durumda java aradigimiz CS'i tek bir paket gibi dusunur ve o paketin baslangic index'ini bize verir
 		
 		
-		System.out.println(str.indexOf('e', 15));
+		System.out.println(str.indexOf('e', 15));// 22
 		
 		
 

@@ -29,6 +29,8 @@ public class C03_Length {
 		// Bir String i yazdirdigimizda null cikiyorsa turkce olarak
 		// " Ben bu degiskeni olusturdum ama henuz deger atamadim" demek istiyor
 		
+		
+		
 
 	}
 
