@@ -23,7 +23,7 @@ public class C07_IfElseIf {
 		} else {
 			System.out.println("Maalesef Kabul edemem");
 		}
-
+	     scan.close();
 
 	}
 

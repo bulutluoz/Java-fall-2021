@@ -29,6 +29,7 @@ public class C06_IfElseIf {
 		}else {
 			System.out.println("Notunuz : A");
 		}
+        scan.close();
 	}
 
 }

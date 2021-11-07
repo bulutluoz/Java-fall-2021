@@ -20,7 +20,10 @@ public class C03_Length {
 							// ve bilerek deger atamadigimizi belirtiyor
 		// System.out.println(str3.length()); // java.lang.NullPointerException
 		
+		@SuppressWarnings("unused")
 		String str4;
+		
+		
 		
 		System.out.println(str3); // null
 		// System.out.println(str4); // Eger String'i olusturur ama deger atamazsak yazdirdigimizda hata aliriz

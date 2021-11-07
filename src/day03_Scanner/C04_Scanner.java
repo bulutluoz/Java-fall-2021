@@ -28,7 +28,7 @@ public class C04_Scanner {
 		// non-primitive data turleri degerin yaninda method'lar barindirir
 		// scan.   dedigimizde kullanabilecegimiz bu method'lari gorebiliriz
 		
-
+		scan.close();
 	}
 
 }

@@ -21,7 +21,7 @@ public class C05_Scanner {
 		String soyisim=scan.next();
 		
 		System.out.println("girilen isim : " + isim + " " + soyisim );
-		
+		scan.close();
 	}
 
 }

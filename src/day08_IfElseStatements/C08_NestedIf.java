@@ -35,7 +35,7 @@ public class C08_NestedIf {
 			System.out.println("Lutfen cinsiyet icin gecerli bir harf secin");
 		}
 
-
+		scan.close();
 	}
 
 }

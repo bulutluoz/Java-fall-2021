@@ -23,8 +23,10 @@ public class C01_Variables {
 		
 		System.out.println(ismim);
 		
+		@SuppressWarnings("unused")
 		char ilkHarf='S';
 		
+		@SuppressWarnings("unused")
 		boolean anlasildiMi = true;
 		
 		String  isminiz = "Ali" ;

@@ -28,7 +28,7 @@ public class C05_IfElseIf {
 			System.out.println("sifir carpmaya gore yutan elemandir");
 		}
 		
-		
+		scan.close();
 	}
 
 }

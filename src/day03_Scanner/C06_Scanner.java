@@ -26,7 +26,7 @@ public class C06_Scanner {
 				String soyisim=scan.nextLine();
 				
 				System.out.println("girilen isim : " + isim + " " + soyisim );
-
+				scan.close();
 	}
 
 }

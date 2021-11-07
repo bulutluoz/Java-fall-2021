@@ -2,6 +2,7 @@ package day06_wrapper;
 
 public class C03_ConditionalOperators {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		System.out.println(5+3==8 || 6+5==10 || 7-2==3);// true
