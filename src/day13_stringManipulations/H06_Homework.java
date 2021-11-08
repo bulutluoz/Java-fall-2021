@@ -60,6 +60,9 @@ public class H06_Homework {
 			System.out.println("Islem basarisiz,Lutfen yeni bir sifre girin");
 		}
 		scan.close();
+		
+		
+
 	}
 
 }

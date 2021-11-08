@@ -18,8 +18,6 @@ public class C04_ReplaceAll {
 		str=str.replace("x", " ");
 		System.out.println(str); //Java ogrenmek cok kolay
 		
-		
-		
 
 	}
 
