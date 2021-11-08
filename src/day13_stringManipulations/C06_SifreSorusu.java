@@ -27,6 +27,7 @@ public class C06_SifreSorusu {
 		
 		System.out.println("isim-soyisim : " + isimFormatli + " " + soyisimFormatli);
 		System.out.println("kart no : " + kkFormatli);
+		scan.close();
 	}
 
 }

@@ -53,7 +53,7 @@ public class C01_Variables {
 		// ascii degeri isleme girer
 		System.out.println(sayi + karakter); // 122
 		
-
+		
 	}
 
 }
