@@ -32,14 +32,15 @@ public class H04_MethodCreation {
 	}
 
 	private static String kkNoDuzenle(String kkNo) {
-		
-		return "**** **** **** " +kkNo.substring(12);
+		String kkDuzenlenmis= kkNo.substring(0,4)+" " +kkNo.substring(4,8)
+							+" " +kkNo.substring(8,12)+" " +kkNo.substring(12);
+		return kkDuzenlenmis;
 	}
 
 	private static String isimDuzenle(String isim, String soyisim) {
 		
-		isim=isim.substring(0,1).toUpperCase()+isim.substring(1).replaceAll("\\w", "*");
-		soyisim=soyisim.substring(0,1).toUpperCase()+soyisim.substring(1).replaceAll("\\w", "*");
+		isim=isim.substring(0,1).toUpperCase()+isim.substring(1).toLowerCase();
+		soyisim=soyisim.substring(0,1).toUpperCase()+soyisim.substring(1).toLowerCase();
 		return isim+" "+soyisim;
 	}
 
