@@ -32,14 +32,7 @@ public class C05_ForLoop {
 				}
 			}
 		}
-        
-        
-        
-        
-        
-        
-        
-        
+                
         scan.close();
         
 
