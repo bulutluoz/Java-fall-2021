@@ -1,6 +1,6 @@
 package day19_whileLoop_doWhileLoop;
 
-import java.util.Iterator;
+
 import java.util.Scanner;
 
 public class C06_DoWhileLoop {
