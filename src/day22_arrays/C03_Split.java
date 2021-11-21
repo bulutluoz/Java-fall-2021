@@ -5,6 +5,7 @@ import java.util.Arrays;
 
 public class C03_Split {
 
+	
 	public static void main(String[] args) {
 		// "Java ogrendim,  #cok para ?kazandim.,"
 		// cumlesinin kelimelerini, ozel karakterler ve noktalama isaretleri olmadan 
@@ -25,7 +26,7 @@ public class C03_Split {
 		System.out.println(Arrays.toString(kelimeler));
 
 		Arrays.sort(kelimeler);
-		String yeniCumle="";
+		
 		
 		
 		for (int i = 0; i < kelimeler.length; i++) {
