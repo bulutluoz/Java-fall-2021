@@ -31,6 +31,10 @@ public class C06_ForEachLoop {
 		}
 		
 		System.out.println(yeniList);
+		
+		// Eger bir list veya array'in tum eelemanlarini elden gecirmek istiyorsak
+		// ve siralama onemli degilse
+		// for-each loop kullaniriz
 
 	}
 
