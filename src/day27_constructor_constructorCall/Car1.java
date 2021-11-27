@@ -12,19 +12,27 @@ public class Car1 {
 		// atama yapacagimiz tum ozellikleri parametre olarak yolladik
 	}
 	
-
-
-	public Car1() {
+	// ben 5 ozelligi birden degistiren bir constructor urettiugimde
+	// java default constructor'i siler
+	// bu durumda daha onceden yazilan ve default constructor'i kullanan tum kodlar coker
+	// bu durumda kodlari duzeltmek icin Javanin sildigi default constructor yerine
+	// parametresiz bir constructor olusturmaliyim
+	
+	public Car1(){
 		
 	}
+	// parametresiz constructor uretmenin syntax'i clasAdi+() + {}
 
 
-
-	public Car1(int i) { // bu satirdaki int km ile class level'daki int km farkli scope'lardadir
+	public Car1(int i) {
 		km=i;
 	}
 
-
+	public Car1(int i, int j) {
+		//      yil      km
+		yil=i;
+		km=j;
+	}
 
 	public void hiz(int hiz) {
 		System.out.println("araba saatte " + hiz + " km yapar");
