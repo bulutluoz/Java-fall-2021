@@ -9,7 +9,9 @@ public class JeepRunner {
 		
 		System.out.println(jeep1.fiyat + " " + jeep1.ilanNo  + " " + jeep1.marka +
 				            " " + jeep1.model+ " " + jeep1.yil); // 10000 1001 null null 2001
-		
+		// jeep class'indaki variable'lar instance variable'lar olduklarindan
+		// atadigim degerler sadece benim objem icin degerleri degistirir
+		// jeep class'indaki degerlere hic bir sey yapmaz
 		jeep1.fiyat=15000;
 		jeep1.ilanNo=1002;
 		jeep1.marka="Toyota";
