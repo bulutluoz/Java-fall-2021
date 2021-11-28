@@ -2,6 +2,7 @@ package day27_constructor_constructorCall;
 
 public class C02_ParamatreliConstructor {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// java'nin olusturdugu default constructor ile obje olusturabiliyoruz
 		// ama her obje icin yeniden deger atamasi yapmak uzun oluyor
