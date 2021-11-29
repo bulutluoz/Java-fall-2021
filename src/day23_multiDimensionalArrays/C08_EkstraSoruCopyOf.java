@@ -2,6 +2,7 @@ package day23_multiDimensionalArrays;
 
 import java.util.Arrays;
 
+
 public class C08_EkstraSoruCopyOf {
 
 	public static void main(String[] args) {
@@ -50,7 +51,10 @@ public class C08_EkstraSoruCopyOf {
         	B[i-A.length]=birlesmis[i];
 			
 		}
-        System.out.println(Arrays.toString(B));
+        System.out.println(Arrays.toString(B)); // [8, 9, 10]B nin son hali
+        
+
+
 
 	}
 
