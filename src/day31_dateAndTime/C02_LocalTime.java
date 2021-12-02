@@ -5,6 +5,7 @@ import java.time.ZoneId;
 
 public class C02_LocalTime {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		LocalTime saat=LocalTime.now();

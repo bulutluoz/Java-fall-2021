@@ -1,11 +1,11 @@
 package day31_dateAndTime;
 
 import java.time.LocalTime;
-import java.util.ArrayList;
-import java.util.List;
+
 
 public class C04_DateTime {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// bir String ve bir int variable olusturalim
 		// bir loop cerisinde bu variable'lari 1000 kere degistirelim

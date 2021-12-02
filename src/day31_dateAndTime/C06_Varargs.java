@@ -14,14 +14,16 @@ public class C06_Varargs {
 		int f=60;
 		
 		topla(a,b);  // iki sayinin toplami : 30
-		topla(a,b,c);
-		topla(a,b,c,d);
-		topla(a,b,c,d,e);
-		topla(a,b,c,d,e,f);
+		topla(a,b,c); // uc sayinin toplami : 60
+		topla(a,b,c,d); // varargs calisir
+		topla(a,b,c,d,e); // varargs calisir
+		topla(a,b,c,d,e,f); // varargs calisir
+		
+		
 		
 		
 		// suana kadar gordugumuz tekniklerle degisken sayida parametreli tek bir method olusturamayiz
-		
+		// variaty arguments 
 
 	}
 
