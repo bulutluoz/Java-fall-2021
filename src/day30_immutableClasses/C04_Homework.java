@@ -12,9 +12,8 @@ public class C04_Homework {
 		
 		a+= false;
 		
-		String b="2cfalse";
 		
-		if (a==b) {
+		if (a=="2cfalse") {
 			 System.out.println("==");
 		}
 		
