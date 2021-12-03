@@ -1,5 +1,6 @@
 package day31_dateAndTime;
 
+
 import java.time.LocalTime;
 
 
@@ -56,6 +57,7 @@ public class C04_DateTime {
 		double intSure=nanobitis-nano1; //                  7.999.700 nono saniye
 		
 		System.out.println("int String'den " + (stringSure-intSure) + " nano saniye daha hizli bitirdi");
+		
 		
 
 	}
