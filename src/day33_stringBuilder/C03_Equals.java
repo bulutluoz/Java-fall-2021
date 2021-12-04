@@ -28,7 +28,8 @@ public class C03_Equals {
 		 
 		
 		//  System.out.println(sb1=="Java");
-		 System.out.println(sb1.equals("Java")); // 
+		 System.out.println(sb1.equals("Java")); // false
+		// System.out.println(sb1.compareTo("Java"));
 		
 		
 
