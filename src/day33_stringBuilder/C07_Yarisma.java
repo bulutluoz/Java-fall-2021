@@ -2,6 +2,7 @@ package day33_stringBuilder;
 
 public class C07_Yarisma {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// Soru : For loop ile 1000 defa bir islem yapalim. 
 		// Oncesinde ve sonrasinda zamani kontrol edip 
