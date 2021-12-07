@@ -8,7 +8,8 @@ public class C02_BaskaPackageChildClass extends C01{
 		C01 obj=new C01();
 		
 		// System.out.println(obj.sayiPrivate);
-		// System.out.println(obj.sayiDefault); main method'dan ulasamamizin sebebi static klubu ile ilgili
+		// System.out.println(obj.sayiDefault);
+		// System.out.println(obj.sayiProtected); // main method'dan ulasamamizin sebebi static klubu ile ilgili
 		System.out.println(obj.sayiPublic);
 	
 
