@@ -4,6 +4,10 @@ public class Muhasebe extends Personel{
 	protected int saatUcreti;
 	protected String statu;
 	protected int maas;
+	
+	public Muhasebe(){
+		System.out.println("Muhasebe parametresiz constructor calisti");
+	}
 
 	public static void main(String[] args) {
 		
