@@ -12,7 +12,10 @@ public class Ustabasi extends Isci{
 		
 		Ustabasi ust1=new Ustabasi();
 		
-		
+		// Java da her class olusturuldugunda otomatik olarak
+		// default constructor olustugu GIBI
+		// Child class'da olusturulan her bir constructor'in
+		// ilk satirinda gizli super() olusturur
 		
 
 	}
