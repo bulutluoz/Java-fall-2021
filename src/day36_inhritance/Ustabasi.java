@@ -8,6 +8,7 @@ public class Ustabasi extends Isci{
 		System.out.println("Ustabasi parametresiz constructor calisti");
 	}
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		Ustabasi ust1=new Ustabasi();

@@ -17,6 +17,7 @@ public class Test01 extends Derived{
 		System.out.println("Test Class : " + temp);
 	}
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		Test01 obj = new Test01("Samet");
 	}
