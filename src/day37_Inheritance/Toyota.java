@@ -1,6 +1,6 @@
 package day37_Inheritance;
 
-public class Toyata {
+public class Toyota extends Araba{
 
 	protected boolean pahaliMi;
 	protected String uretimYeri="Japonya";
