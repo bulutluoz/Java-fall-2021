@@ -1,6 +1,6 @@
 package day37_Inheritance;
 
-import day34_accessModifier_encapsulation.C01;
+
 
 public class Corolla extends Toyota {
 
