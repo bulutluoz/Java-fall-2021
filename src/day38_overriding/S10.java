@@ -2,6 +2,7 @@ package day38_overriding;
 
 public class S10 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		M m =new M();
 		M n = new N();

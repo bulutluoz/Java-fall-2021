@@ -13,6 +13,7 @@ class C {
 		System.out.println("c");
 	} }
 class U {
+	@SuppressWarnings("unused")
 	private void update() {
 		System.out.println("u");
 	} }
