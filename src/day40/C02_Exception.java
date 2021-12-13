@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class C02_Exception {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		// Kullanicidan istedigi kadar sayi alip
 		// bu sayilari toplayan bir program yapiniz
