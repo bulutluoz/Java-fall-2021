@@ -34,6 +34,9 @@ public class C01_Iterator {
 		}
 		System.out.println("");
 		System.out.println(liste);
+		
+		// foreach loop ile index kullanmadan tum elementlere ulasabiliyoruz ama 
+		// kalici degisiklik yapamiyoruz
 	}
 
 }
