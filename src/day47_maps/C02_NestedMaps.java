@@ -43,6 +43,20 @@ public class C02_NestedMaps {
 		
 		System.out.println(sinifMap);
 		
+		/*
+		 {
+		 101={soyisim=Can, brans=J.dev, isim=Ali}, 
+		 102={soyisim=Yan, brans=QA, isim=Veli}, 
+		 103={soyisim=Yan, brans=C#, isim=Ali}, 
+		 104={soyisim=Can, brans=QA, isim=Ayse}
+		 }
+
+		 
+		 
+		 
+		 
+		 */
+		
 
 	}
 
