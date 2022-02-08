@@ -4,7 +4,7 @@ public class C03_SwapVariables2 {
 
 	public static void main(String[] args) {
 		
-		// 2- Verilen sayi1 ve sayi2 variable’larinin degerlerini 
+		// 2- Verilen sayi1 ve sayi2 variableâ€™larinin degerleri
 		//    3.bir variable olmadan degistiren (SWAP) bir program yapiniz
 		
 		int sayi1=15;
